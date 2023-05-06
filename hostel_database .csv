@@ -1,0 +1,51 @@
+Hostel_ID,Hostel_Name,Address,City,State,Country,Postal_Code,Phone_Number,Email_Address,Government_Hostel,Price,Seats_Left
+1,TGK Hostel,MG Road,Tumkur,Karnataka,India,572101,1234567890,info@tgkhostel.com,No,8231,8
+2,Sri Durga Residency,Ashoka Road,Tiptur,Karnataka,India,572201,2345678901,sridurgaresidency@gmail.com,No,6096,11
+3,Sahyadri Hostel,"NH 48, Siddaganga Institute Road",Tumkur,Karnataka,India,572103,3456789012,sahyadrihostel@gmail.com,No,5309,16
+4,Shree Akshaya Hostel,Siddaganga Institute Road,Tumkur,Karnataka,India,572104,4567890123,shreeakshayahostel@gmail.com,No,6847,6
+5,Anu Comforts,"NH 4, 1st Cross, Indiranagar",Tumkur,Karnataka,India,572101,5678901234,anucomforts@gmail.com,No,8894,6
+6,Hotel Green Wood,"NH 206, BH Road",Gubbi,Karnataka,India,572216,6789012345,hotelgreenwood@gmail.com,No,7586,15
+7,Akshay Residency,"Huliyar Road, Near KSRTC Bus Stand",Tiptur,Karnataka,India,572201,7890123456,akshayresidency@gmail.com,No,9258,16
+8,Nandi Upachar,"SH 3, Aditya Nagar",Tumkur,Karnataka,India,572103,8901234567,nandiupachar@gmail.com,No,5194,8
+9,Sri Durga Deluxe Lodge,Yediyur Main Road,Tumkur,Karnataka,India,572101,9012345678,sridurgadeluxelodge@gmail.com,No,8108,8
+10,Srinivasa Residency,"BH Road, Near Siddaganga Hospital",Tumkur,Karnataka,India,572102,2345678901,srinivasaresidency@gmail.com,No,9035,17
+11,Basaveshwara Residency,"NH 48, Near Tumkur University",Tumkur,Karnataka,India,572106,3456789012,basaveshwararesidency@gmail.com,No,9125,9
+12,Kallappa Residency,"B H Road, Tiptur",Tiptur,Karnataka,India,572201,4567890123,kallapparesidency@gmail.com,No,7791,14
+13,Sri Krishna Residency,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,8147180891,sridurgadeluxelodge@gmail.com,No,5572,10
+14,Hotel SPV Comforts,"Siddaganga Extension, Ashok Nagar",Tumkur,Karnataka,India,572101,5678901234,hotelspvcomforts@gmail.com,No,5638,6
+15,Sri Sai Residency,"B H Road, Opposite to Bus Stand",Gubbi,Karnataka,India,572216,6789012345,srisairesidency@gmail.com,No,8780,20
+16,Hotel Amrutha Residency,"NH 206, Tiptur",Tiptur,Karnataka,India,572201,7890123456,hotelamrutharesidency@gmail.com,No,9739,13
+17,Varsha Residency,"Dabaspet, NH 4",Tumkur,Karnataka,India,572101,8901234567,varsharesidency@gmail.com,No,7796,15
+18,Lakshmi Guest House,"Railway Station Road, Tiptur",Tiptur,Karnataka,India,572201,9012345678,lakshmiguesthouse@gmail.com,No,9334,11
+19,Hotel Surya Residency,"NH 206, Near Kalakar Theater",Tumkur,Karnataka,India,572101,2345678901,hotelsuryaresidency@gmail.com,No,5631,16
+20,Sri Krishna Comforts,"Siddaganga Extension, Ashok Nagar",Tumkur,Karnataka,India,572101,3456789012,srikrishnacomforts@gmail.com,No,9877,9
+21,Guru Krupa Lodge,Siddaganga Institute Road,Tumkur,Karnataka,India,572104,4567890123,gurukrupalodge@gmail.com,No,7219,18
+22,Ravi Mayur Residency,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,5678901234,ravimayurresidency@gmail.com,No,9401,6
+23,Yatri Nivas,"Tumkur - Honnavar Road, Near Petrol Bunk",Tiptur,Karnataka,India,572201,6789012345,yatrinivas@gmail.com,No,5726,4
+24,Hotel Abhinandan,"MG Road, Near City Bus Stand",Tumkur,Karnataka,India,572101,7890123456,hotelabhinandan@gmail.com,No,6241,14
+25,Aruna Residency,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,8901234567,arunaresidency@gmail.com,No,5000,7
+26,Ravi Mayur International,"B H Road, Opposite to Railway Station",Tumkur,Karnataka,India,572101,9012345678,ravimayurinternational@gmail.com,No,5000,20
+27,Naveen Regency,Tumkur,Tiptur,Karnataka,India,572101,9012345678,ravimayurinternational@gmail.com,Yes,5000,8
+28,Karnataka State Government YH,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,2345678901,ksgyhtumkur@gmail.com,Yes,5000,16
+29,Youth Hostel,"Opp. B H Road, Railway Station Road",Tiptur,Karnataka,India,572201,3456789012,youthhosteltiptur@gmail.com,Yes,5000,11
+30,Government Boys Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,4567890123,gbhtumkur@gmail.com,Yes,5000,7
+31,Scheduled Caste Boys Hostel,"Near DC Office, B H Road",Tiptur,Karnataka,India,572201,5678901234,scbhtiptur@gmail.com,Yes,5000,18
+32,Scheduled Caste Girls Hostel,"Near Shantaveera Swamy Circle, Ashoknagar",Tumkur,Karnataka,India,572101,6789012345,scghashoknagar@gmail.com,Yes,5000,15
+33,Scheduled Tribe Boys Hostel,"Near DC Office, B H Road",Tumkur,Karnataka,India,572101,7890123456,stbhtumkur@gmail.com,Yes,5000,3
+34,Scheduled Tribe Girls Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,8901234567,stghashoknagar@gmail.com,Yes,5000,7
+35,Backward Classes Boys Hostel,"Near DC Office, B H Road",Tiptur,Karnataka,India,572201,9012345678,bcbbhtiptur@gmail.com,Yes,5000,7
+36,Backward Classes Girls Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,2345678901,bcgbhashoknagar@gmail.com,Yes,5000,6
+37,BC Welfare Boys Hostel,"Opp. Ashok Nagar Police Station, B H Road",Tumkur,Karnataka,India,572101,3456789012,bcwbhtumkur@gmail.com,Yes,5000,16
+38,BC Welfare Girls Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,4567890123,bcwghashoknagar@gmail.com,Yes,5000,3
+39,Morarji Desai Boys Hostel,"Near Tiptur Taluk Office, B H Road",Tiptur,Karnataka,India,572201,5678901234,mdbhtiptur@gmail.com,Yes,5000,12
+40,Scheduled Tribe Girls Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Madhugiri,Karnataka,India,572101,8901234567,stghashoknagar@gmail.com,Yes,5000,15
+41,Social Welfare Boys Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,6789012345,swbhtumkur@gmail.com,Yes,5000,13
+42,Social Welfare Girls Hostel,"Near Shantaveera Swamy Circle, Ashoknagar",Tumkur,Karnataka,India,572101,7890123456,swghashoknagar@gmail.com,Yes,5000,20
+43,Tribal Boys Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,8901234567,tbhtumkur@gmail.com,Yes,5000,15
+44,Tribal Girls Hostel,"Near Shantaveera Swamy Circle, Ashoknagar",Tumkur,Karnataka,India,572101,9012345678,tghashoknagar@gmail.com,Yes,5000,18
+45,Backward Classes and Minorities Hostel,"Near DC Office, B H Road",Tiptur,Karnataka,India,572201,2345678901,bcmhbhtiptur@gmail.com,Yes,5000,6
+46,Minorities Boys Hostel,"Near Shantaveera Swamy Circle, Ashoknagar",Tumkur,Karnataka,India,572101,3456789012,mbhtumkur@gmail.com,Yes,5000,11
+47,Minorities Girls Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,4567890123,mghashoknagar@gmail.com,Yes,5000,20
+48,Working Women's Hostel,"Near DC Office, B H Road",Tumkur,Karnataka,India,572101,5678901234,wwhashoknagar@gmail.com,Yes,5000,4
+49,Jan Shikshan Sansthan Boys Hostel,"Near Tiptur Taluk Office, B H Road",Tiptur,Karnataka,India,572201,6789012345,jssbhtiptur@gmail.com,Yes,5000,18
+50,Jan Shikshan Sansthan Girls Hostel,"Near KSRTC Bus Stand, Ashok Nagar",Tumkur,Karnataka,India,572101,7890123456,jssghashoknagar@gmail.com,Yes,5000,6
